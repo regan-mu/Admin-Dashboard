@@ -137,6 +137,7 @@ body {
 	border: none;
 	background-color: #d6dbe3;
 	border-radius: 16px;
+	padding: 0 8px;
 }
 .search > img {
 	width: 24px;
